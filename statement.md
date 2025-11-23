@@ -1,7 +1,7 @@
 # 📜 Project Statement and Scope
 
 ## 1. Project Identification
-**Project Name:** [Series of Digit Program by Rishabh]
+**Project Name:** Series of Digit Program by Rishabh
 **Repository Link:** [https://github.com/Rishabh0807/Series-of-Digit-Program-by-Rishabh-]
 **Primary Goal:** To [Clearly state the main objective, e.g., automate the task management process, provide real-time data analysis for X industry].
 
