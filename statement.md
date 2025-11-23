@@ -28,11 +28,6 @@ The project addresses the difficulty of manually finding which digit appears at 
 ## 4. Target Users
 The system is designed for **College Students and working professionals** who require a streamlined solution for runnimg there programs smoothly
 
-## 5. Next Steps / Future Enhancements
-We plan to implement the following features in subsequent releases:
-1.  Adding advanced filtering and search capabilities.
-2.  Developing a notification system for critical events.
-3.  Optimizing the database structure for high-volume transactions.
 
 ---
 
