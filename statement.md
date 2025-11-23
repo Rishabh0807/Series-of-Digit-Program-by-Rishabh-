@@ -3,10 +3,10 @@
 ## 1. Project Identification
 **Project Name:** Series of Digit Program by Rishabh
 **Repository Link:** [https://github.com/Rishabh0807/Series-of-Digit-Program-by-Rishabh-]
-**Primary Goal:** To [To create a python program that generates a continious number series and allows the user to find the digit at any specific position easily].
+**Primary Goal:** To To create a python program that generates a continious number series and allows the user to find the digit at any specific position easily.
 
 ## 2. Problem Addressed
-The primary issue this project addresses is the current inefficiency/gap in [Target Domain] due to [Describe the current pain point or limitation, e.g., lack of centralized data management, manual and error-prone processes].
+The project addresses the difficulty of manually finding which digit appears at a specific position in a long,continious number series.Counting Digits one by one in sequences like 1234567891011112...is slow and error prone so the program automates this process by generating the sequence and instantly returning the correct digit.
 
 ## 3. Scope Definition
 
