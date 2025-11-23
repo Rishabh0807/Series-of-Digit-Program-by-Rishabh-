@@ -3,7 +3,7 @@
 ## 1. Project Identification
 **Project Name:** Series of Digit Program by Rishabh
 **Repository Link:** [https://github.com/Rishabh0807/Series-of-Digit-Program-by-Rishabh-]
-**Primary Goal:** To [Clearly state the main objective, e.g., automate the task management process, provide real-time data analysis for X industry].
+**Primary Goal:** To [To create a python program that generates a continious number series and allows the user to find the digit at any specific position easily].
 
 ## 2. Problem Addressed
 The primary issue this project addresses is the current inefficiency/gap in [Target Domain] due to [Describe the current pain point or limitation, e.g., lack of centralized data management, manual and error-prone processes].
