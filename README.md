@@ -1,4 +1,4 @@
-# Series-of-Digit-Program-by-Rishabh
+# DIGIT POSITION IDENTIFIER IN NUMBER SERIES-by-Rishabh
 This project is part of a Python programming assignment. It creates a sequential number string up to a user-defined limit and extracts the digit at any given position. It helps in understanding string slicing, indexing, and mathematical logic in programming.
 
 
